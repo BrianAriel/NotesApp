@@ -18,3 +18,7 @@ Before running this application, make sure you have the following tools and runt
 To run the application, use the provided bash script. Open a terminal and navigate to the project directory, then execute the following command:
 
 ./run-app.sh
+
+## NOTES:
+
+It was a project developed locally then it was uploaded to GitHub
