@@ -1,0 +1,28 @@
+.note {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.note h3 {
+    margin-top: 0;
+    color: #333;
+}
+
+.note p {
+    margin-top: 0;
+    color: #666;
+}
+
+.note .note-remove {
+    margin-bottom: 0px;
+}
+
+.category-chip {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}

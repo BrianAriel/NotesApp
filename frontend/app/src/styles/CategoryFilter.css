@@ -1,0 +1,10 @@
+.under-label {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+}
+
+.checkbox-label {
+    width: auto;
+    margin-bottom: 3px;
+}
